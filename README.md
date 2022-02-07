@@ -26,7 +26,7 @@ GRANT ALL ON weather_stations TO mqtt
 
 
 ---
-8. navigate into folder sensor
+8. Navigate into folder sensor
 
 ``` 
 sudo docker build -t mqttconnector:1.0 .
