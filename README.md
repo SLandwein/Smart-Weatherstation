@@ -33,5 +33,6 @@ sudo docker build -t mqttconnector:1.0 .
 sudo docker run -d --device /dev/i2c-1  mqttconnector:1.0 
 ```
 ---
-**9. Profit**
+
+9. Done
 
